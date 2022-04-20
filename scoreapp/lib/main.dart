@@ -31,6 +31,7 @@ void increaseNumber(){
       number++;
     });
 }
+  //for increasing
 void decreaseNumber(){
  setState(() {
     number--;
